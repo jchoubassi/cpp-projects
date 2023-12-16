@@ -1,0 +1,12 @@
+﻿  fps_shooter.cpp
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\fps_shooter.cpp(123,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\fps_shooter.cpp(131,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\fps_shooter.cpp(187,97): warning C4474: 'swprintf_s' : too many arguments passed for format string
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\fps_shooter.cpp(187,97): message : placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\fps_shooter.cpp(24): fatal error C1075: '{': no matching token found
+  Source.cpp
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\Source.cpp(124,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\Source.cpp(132,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\Source.cpp(188,98): warning C4474: 'swprintf_s' : too many arguments passed for format string
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\Source.cpp(188,98): message : placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+  Generating Code...

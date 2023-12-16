@@ -1,0 +1,5 @@
+﻿  fps_shooter.cpp.cpp
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\fps_shooter.cpp.cpp(16,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\fps_shooter.cpp.cpp(58,37): error C2059: syntax error: ';'
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\fps_shooter.cpp.cpp(201,1): error C2059: syntax error: '}'
+D:\Programming\C++\fps_shooter\fps_shooter.cpp\fps_shooter.cpp.cpp(68): fatal error C1075: '{': no matching token found
