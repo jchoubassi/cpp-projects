@@ -1,0 +1,3 @@
+﻿  buttons.cpp
+D:\Programming\C++\buttons.cpp\buttons.cpp(88,5): error C3861: 'getline': identifier not found
+D:\Programming\C++\buttons.cpp\buttons.cpp(89,5): error C3861: 'getline': identifier not found
